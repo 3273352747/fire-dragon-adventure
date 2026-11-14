@@ -1,0 +1,13 @@
+# Local previews and diagnostics
+*.log
+.DS_Store
+Thumbs.db
+qa/
+node_modules/
+
+# Keep this repository a WebGL release, not a Unity cache backup.
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/

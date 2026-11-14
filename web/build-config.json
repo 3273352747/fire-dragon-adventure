@@ -1,0 +1,10 @@
+{
+  "loaderUrl": "Build/dragon-static.loader.js",
+  "dataUrl": "Build/dragon-static.data",
+  "frameworkUrl": "Build/dragon-static.framework.js",
+  "codeUrl": "Build/dragon-static.wasm",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "DefaultCompany",
+  "productName": "实践作业",
+  "productVersion": "1.0"
+}
