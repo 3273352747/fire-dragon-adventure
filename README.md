@@ -4,7 +4,7 @@
 
 使用 **Unity 2D + C#** 制作的横版动作闯关游戏。玩家控制火龙跨越平台、收集金币、发射火球击败敌人，沿途激活检查点，抵达绿色终点旗后过关。
 
-**[在线试玩](https://3273352747.github.io/fire-dragon-adventure/)** · **[开发记录](docs/DEVELOPMENT.md)**
+**[开发记录](docs/DEVELOPMENT.md)**
 
 ## 项目概览
 
