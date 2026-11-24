@@ -1,3 +1,11 @@
+## 在线体验步骤
+
+**直接进入：[火龙探险在线试玩](https://3273352747.github.io/fire-dragon-adventure/)**
+
+拥有仓库设置权限时，也可以按图中的 **① Settings → ② Pages → ③ Visit site** 打开游戏。
+
+![火龙探险在线体验步骤：①打开Settings，②选择Pages，③点击Visit site](docs/images/online-experience-steps.svg)
+
 # 火龙探险
 
 使用 **Unity 2D + C#** 制作的横版动作闯关游戏。玩家控制火龙跨越平台、收集金币、发射火球击败敌人，沿途激活检查点，抵达绿色终点旗后过关。
